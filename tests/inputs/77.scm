@@ -1,0 +1,1 @@
+(define x #f) (if (or #t (set! x #t)) x '())

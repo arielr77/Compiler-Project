@@ -1,0 +1,1 @@
+(symbol->string  'covid19)

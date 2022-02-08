@@ -1,0 +1,1 @@
+(fold-left list 'moshe '(dani avi yosi haim))

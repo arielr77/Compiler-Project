@@ -1,0 +1,1 @@
+(fold-right (lambda (v l) (cons (+ 1 v) l)) '() '(1 2 3 4))
